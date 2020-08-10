@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/alekh5007/tiktactoe-pwa.git/static/css/main.c3c37415.chunk.css",
+    "main.js": "/alekh5007/tiktactoe-pwa.git/static/js/main.e976aeec.chunk.js",
+    "main.js.map": "/alekh5007/tiktactoe-pwa.git/static/js/main.e976aeec.chunk.js.map",
+    "runtime-main.js": "/alekh5007/tiktactoe-pwa.git/static/js/runtime-main.9d982e49.js",
+    "runtime-main.js.map": "/alekh5007/tiktactoe-pwa.git/static/js/runtime-main.9d982e49.js.map",
+    "static/js/2.827857ef.chunk.js": "/alekh5007/tiktactoe-pwa.git/static/js/2.827857ef.chunk.js",
+    "static/js/2.827857ef.chunk.js.map": "/alekh5007/tiktactoe-pwa.git/static/js/2.827857ef.chunk.js.map",
+    "index.html": "/alekh5007/tiktactoe-pwa.git/index.html",
+    "precache-manifest.23b5b9021683dacb5d7113883d920b46.js": "/alekh5007/tiktactoe-pwa.git/precache-manifest.23b5b9021683dacb5d7113883d920b46.js",
+    "service-worker.js": "/alekh5007/tiktactoe-pwa.git/service-worker.js",
+    "static/css/main.c3c37415.chunk.css.map": "/alekh5007/tiktactoe-pwa.git/static/css/main.c3c37415.chunk.css.map",
+    "static/js/2.827857ef.chunk.js.LICENSE.txt": "/alekh5007/tiktactoe-pwa.git/static/js/2.827857ef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d982e49.js",
+    "static/js/2.827857ef.chunk.js",
+    "static/css/main.c3c37415.chunk.css",
+    "static/js/main.e976aeec.chunk.js"
+  ]
+}
